@@ -9,9 +9,9 @@
 Build/ChikenCrash.exe
 
 Чтобы посмотреть в Unity нужно:
-- добавить ChikensCrash.unitypackage в пустой проект
-- запустить test/testScene
-- нажать ctrl + p
+- добавить ```ChikensCrash.unitypackage``` в пустой проект
+- запустить ```ChikenCrash/CCScene```
+- нажать ```ctrl``` + ```p```
 
 
 ## Управление
