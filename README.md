@@ -1,6 +1,6 @@
 # ChikenCrash
 
-Проект сделан как тестовое задание для компании pleygendary
+Проект сделан как тестовое задание для компании playgendary
 
 версия unity 2019.3.5f1
  
@@ -16,8 +16,11 @@ Build/ChikenCrash.exe
 
 ## Управление
 запуск вперед - ```Up Arrow```
+
 запуск назад - ```Down Arrow```
+
 сброс - ```Space```
+
 выход - ```Escape```
 
 ![screen](./SphereChiken_12.gif)
