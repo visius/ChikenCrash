@@ -23,4 +23,4 @@ Build/ChikenCrash.exe
 
 выход - ```Escape```
 
-![screen](./SphereChiken_12.gif)
+![screen](./ChikenCrash.gif)
